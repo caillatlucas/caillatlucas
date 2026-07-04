@@ -20,5 +20,5 @@ Voici les technologies que j'utilise au quotidien :
 
 # \ 📫 Comment me contacter ?
 
- \* 📧 \*\*Email :\*\* caillatlucas2304@gmail.com
+ \ 📧 Email : caillatlucas2304@gmail.com
 
