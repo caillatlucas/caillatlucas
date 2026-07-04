@@ -23,8 +23,8 @@
 
 <img src="https://i.ytimg.com/vi/tJKNcI6jC6A/maxresdefault.jpg" width="300"/>
 
-### **Nom de la musique**
-*Nom de l'artiste*
+### **Hell Of A Life**
+*Kanye West*
 
 <a href="https://www.youtube.com/watch?v=tJKNcI6jC6A">
 <img src="https://img.shields.io/badge/▶️%20Écouter%20sur%20YouTube-FF3131?style=for-the-badge"/>
