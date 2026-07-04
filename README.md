@@ -1,24 +1,40 @@
-# Salut, moi c'est lc.20ytb ! 👋
+# 👋 Salut, moi c'est **lc.20ytb**
 
-Je suis un développeur passionné par la création d'applications web rapides, modernes et scalables.  
+💻 Développeur passionné par la création d'applications web **rapides**, **modernes** et **scalables**.
 
-# 🛠️ Mon Stack Technique
+J'aime concevoir des projets performants, apprendre de nouvelles technologies et transformer des idées en applications concrètes.
 
-Voici les technologies que j'utilise au quotidien :
+---
 
- <a href="https://nodejs.org/" target="\_blank">
+## 🛠️ Stack technique
 
- &#x20; <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white" alt="Node.js Badge"/>
+Les technologies que j'utilise régulièrement :
 
- </a>
+<p align="left">
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  </a>
 
- <a href="https://vercel.com/" target="\_blank">
+  <a href="https://vercel.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  </a>
+</p>
 
- &#x20; <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white" alt="Vercel Badge"/>
+---
 
- </a>
+## 🚀 Ce que j'aime développer
 
-#📫 Comment me contacter ?
+* 🌐 Applications web modernes
+* ⚡ Interfaces rapides et optimisées
+* ☁️ Déploiement sur Vercel
+* 📈 Projets évolutifs et maintenables
 
-📧 Email : caillatlucas2304@gmail.com
+---
 
+## 📫 Me contacter
+
+📧 **Email :** <a href="mailto:caillatlucas2304@gmail.com">[caillatlucas2304@gmail.com](mailto:caillatlucas2304@gmail.com)</a>
+
+---
+
+⭐ N'hésite pas à découvrir mes projets et à laisser une étoile si l'un d'eux t'a plu !
