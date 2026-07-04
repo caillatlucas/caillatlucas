@@ -23,7 +23,7 @@ Technicien informatique passionné, spécialisé en hardware et design. J’acco
 
 ---
 
-# 🚀 Stack
+# Stack
 
 <div align="center">
 
