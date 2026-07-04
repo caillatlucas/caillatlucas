@@ -56,11 +56,15 @@ Technicien informatique passionné, spécialisé en hardware et design. J’acco
 <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
-<a href="mailto:caillatlucas2304@gmail.com">
-<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
-</a>
-
 </div>
+
+---
+
+# Contact
+
+📧 **caillatlucas2304@gmail.com**
+
+🌐 https://caillatlucas.github.io/bentosite/
 
 ---
 
@@ -150,14 +154,6 @@ Technicien informatique passionné, spécialisé en hardware et design. J’acco
 | ☣️ Prototype | ✅ |
 | ⚙️ API | ✅ |
 | 🚀 Déploiement | ✅ |
-
----
-
-# Contact
-
-📧 **caillatlucas2304@gmail.com**
-
-🌐 https://caillatlucas.github.io/bentosite/
 
 ---
 
