@@ -38,7 +38,6 @@ Les technologies que j'utilise régulièrement :
 * 📈 Projets évolutifs et maintenables
 
 ---
-
 ## 📫 Me contacter
 
 📧 **Email :** <a href="mailto:caillatlucas2304@gmail.com">[caillatlucas2304@gmail.com](mailto:caillatlucas2304@gmail.com)</a>
