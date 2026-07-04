@@ -19,11 +19,18 @@
 
 # 🎧 Now Playing
 
-<p align="center">
+<div align="center">
+
+<img src="https://i.ytimg.com/vi/tJKNcI6jC6A?si=tZeTqv8yu8lACzXA/maxresdefault.jpg" width="300"/>
+
+### **Nom de la musique**
+*Nom de l'artiste*
+
 <a href="https://youtu.be/tJKNcI6jC6A?si=tZeTqv8yu8lACzXA">
-<img src="https://img.shields.io/badge/▶︎%20Play%20Music-FF3131?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/▶️%20Écouter%20sur%20YouTube-FF3131?style=for-the-badge"/>
 </a>
-</p>
+
+</div>
 
 ---
 
