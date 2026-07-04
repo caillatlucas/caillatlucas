@@ -17,7 +17,7 @@
 
 ---
 
-# 🎧 Now Playing
+# Now Playing
 
 <div align="center">
 
@@ -37,6 +37,30 @@
 # À propos
 
 Technicien informatique passionné, spécialisé en hardware et design. J’accompagne particuliers avec des services rapides, fiables et adaptés à leurs besoins.
+
+---
+
+# 🌐 Me retrouver
+
+<div align="center">
+
+<a href="https://www.youtube.com/@lc.20ytb" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF3131?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/lc.20ytb" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ucas-caillat-53a34540b" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+</a>
+
+<a href="mailto:caillatlucas2304@gmail.com">
+<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+</div>
 
 ---
 
