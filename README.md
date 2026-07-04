@@ -5,11 +5,7 @@
 
 </p>
 
-### 💻 Développeur Full-Stack • Freelance • Passionné par le Web
-
-<p>
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=34&duration=3000&pause=1000&color=FF3131&center=true&vCenter=true&width=750&lines=Bienvenue+sur+mon+profil+GitHub;Développeur+Web+Full-Stack;Applications+rapides+%E2%9A%A1;Design+%2B+Performance+%F0%9F%9A%80" />
-</p>
+### Freelance Informatique
 
 <p>
 <img src="https://img.shields.io/badge/FREELANCE-FF3131?style=for-the-badge&logoColor=white">
@@ -21,21 +17,13 @@
 
 ---
 
-# ❤️ À propos
+# À propos
 
-Développeur passionné par la création d'applications web **rapides**, **modernes** et **évolutives**.
-
-J'accorde une grande importance à :
-
-- ⚡ La performance
-- 🎨 L'expérience utilisateur
-- 📱 Le responsive
-- 🧹 Un code propre
-- 🚀 Les nouvelles technologies
+Technicien informatique passionné, spécialisé en hardware et design. J’accompagne particuliers avec des services rapides, fiables et adaptés à leurs besoins.
 
 ---
 
-# 🚀 Stack
+# Stack
 
 <p align="center">
 
@@ -45,7 +33,7 @@ J'accorde une grande importance à :
 
 ---
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <p align="center">
 
@@ -63,7 +51,7 @@ J'accorde une grande importance à :
 
 ---
 
-# 📈 Activité
+# Activité
 
 <p align="center">
 
@@ -73,44 +61,33 @@ J'accorde une grande importance à :
 
 ---
 
-# 🛠️ Ce que je développe
-
-```txt
-██████╗  ███████╗██╗   ██╗
-██╔══██╗ ██╔════╝██║   ██║
-██║  ██║ █████╗  ██║   ██║
-██║  ██║ ██╔══╝  ╚██╗ ██╔╝
-██████╔╝ ███████╗ ╚████╔╝
-╚═════╝  ╚══════╝  ╚═══╝
-```
+# Ce que je développe
 
 🌐 Applications Web
-
-⚡ APIs
 
 🎨 UI / UX
 
 ☁️ Déploiement Vercel
 
-📦 SaaS
-
 📱 Responsive Design
+
+🎮 Game dev (indépendant)
 
 ---
 
-# 💼 Services
+# Services
 
 | Service | Disponible |
 |---------|------------|
 | 🌐 Site vitrine | ✅ |
 | 🛒 Boutique | ✅ |
+| ☣️ Prototype | ✅ |
 | ⚙️ API | ✅ |
 | 🚀 Déploiement | ✅ |
-| 🔧 Maintenance | ✅ |
 
 ---
 
-# 📫 Contact
+# Contact
 
 📧 **caillatlucas2304@gmail.com**
 
