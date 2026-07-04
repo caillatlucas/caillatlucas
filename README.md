@@ -17,6 +17,16 @@
 
 ---
 
+# 🎧 Now Playing
+
+<div align="center">
+
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=TON_ID_SPOTIFY&cover_image=true&theme=novatorem"/>
+
+</div>
+
+---
+
 # À propos
 
 Technicien informatique passionné, spécialisé en hardware et design. J’accompagne particuliers avec des services rapides, fiables et adaptés à leurs besoins.
