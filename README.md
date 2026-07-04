@@ -22,6 +22,14 @@ Les technologies que j'utilise régulièrement :
 
 ---
 
+## 🏆 Trophées GitHub
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=caillatlucas&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
 ## 🚀 Ce que j'aime développer
 
 * 🌐 Applications web modernes
