@@ -52,7 +52,7 @@ Technicien informatique passionné, spécialisé en hardware et design. J’acco
 <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
 </a>
 
-<a href="https://www.linkedin.com/in/ucas-caillat-53a34540b" target="_blank">
+<a href="https://www.linkedin.com/in/lucas-caillat-53a34540b" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
