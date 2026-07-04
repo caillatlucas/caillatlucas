@@ -1,10 +1,10 @@
 # Salut, moi c'est lc.20ytb ! 👋
 
-# Je suis un développeur passionné par la création d'applications web rapides, modernes et scalables.  
+Je suis un développeur passionné par la création d'applications web rapides, modernes et scalables.  
 
 # 🛠️ Mon Stack Technique
 
-# Voici les technologies que j'utilise au quotidien :
+Voici les technologies que j'utilise au quotidien :
 
  <a href="https://nodejs.org/" target="\_blank">
 
@@ -18,18 +18,7 @@
 
  </a>
 
-# \ 📊 Mes Statistiques GitHub
-
-# 
-
-# <p align="center">
-
-# &#x20; <img src="https://github-readme-stats.vercel.app/api?username=caillatlucas\&show\_icons=true\&theme=radical" alt="Stats GitHub de lc.20ytb" />
-
-# </p>
-
 # \ 📫 Comment me contacter ?
 
-
-# \* 📧 \*\*Email :\*\* caillatlucas2304@gmail.com
+ \* 📧 \*\*Email :\*\* caillatlucas2304@gmail.com
 
