@@ -78,10 +78,6 @@ Technicien informatique passionné, spécialisé en hardware et design. J’acco
 
 </p>
 
----
-
-# Activité
-
 <p align="center">
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=caillatlucas&bg_color=000000&color=ffffff&line=FF3131&point=FF3131&area=true&hide_border=true"/>
