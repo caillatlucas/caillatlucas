@@ -53,7 +53,6 @@ Technicien informatique passionné, spécialisé en hardware et design. J’acco
 
 ### ☁️ Outils
 
-<img src="https://img.shields.io/badge/Antigravity-111111?style=for-the-badge&logoColor=FF3131"/>
 <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 <img src="https://img.shields.io/badge/Vercel-111111?style=for-the-badge&logo=vercel&logoColor=FFFFFF"/>
