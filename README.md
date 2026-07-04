@@ -19,11 +19,11 @@
 
 # 🎧 Now Playing
 
-<div align="center">
-
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=TON_ID_SPOTIFY&cover_image=true&theme=novatorem"/>
-
-</div>
+<p align="center">
+<a href="https://youtu.be/tJKNcI6jC6A?si=tZeTqv8yu8lACzXA">
+<img src="https://img.shields.io/badge/▶︎%20Play%20Music-FF3131?style=for-the-badge"/>
+</a>
+</p>
 
 ---
 
